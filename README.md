@@ -30,6 +30,9 @@ sneakervault-uts/
 ├── android/
 ├── assets/
 ├── lib/
+├── models/
+├── screens/
+└── main.dart
 ├── test/
 ├── pubspec.yaml
 └── README.md
